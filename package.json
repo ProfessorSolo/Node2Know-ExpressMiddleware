@@ -1,0 +1,22 @@
+{
+  "name": "node2know-expressmiddleware",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorSolo/Node2Know-ExpressMiddleware.git"
+  },
+  "keywords": [],
+  "author": "Joshua Solomon",
+  "license": "Node2Know-LEARN-1.0"
+}
